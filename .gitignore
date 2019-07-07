@@ -1,0 +1,5 @@
+node_modules
+dev.js
+notes.txt
+.env.development
+.env.production

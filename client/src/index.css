@@ -1,0 +1,15 @@
+nav{
+  background-color: blue;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  border: 1px solid white;
+}
+
+.btn:hover{
+  background-color: white;
+  color: blue;
+  border: none;
+}
